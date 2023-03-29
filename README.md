@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ignatirabo also known as Ignacio Tiraboschi. I'm a PhD Student at ENS Paris.
+- 👋 Hi, I’m Ignacio Tiraboschi, you can find me as `@ignatirabo` (almost) everywhere. I'm a PhD Student at ENS Paris.
 - 👀 I’m interested in the static analysis of programs for security properties.
 - 🌱 I’m currently learning off-topic stuff like 3D Graphics!
 - 🕹️ I love videogames too!
