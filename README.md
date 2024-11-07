@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ignacio Tiraboschi, you can find me as `@ignatirabo` (almost) everywhere. I'm a PhD Student at ENS Paris.
 - 👀 I’m interested in the static analysis of programs for security properties.
 - 🌱 I’m currently learning off-topic stuff like 3D Graphics!
-- 🕹️ I love videogames too!
+- 🕹️ I love videogames too! My goal is to create games in **Godot**.
 - 📫 You can reach me in my professional email `ignacio.tiraboschi@inria.fr` :)
