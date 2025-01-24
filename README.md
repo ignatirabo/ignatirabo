@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Ignacio Tiraboschi, you can find me as `@ignatirabo` (almost) everywhere. I'm a PhD Student at ENS Paris.
+- 👋 Hi, I’m Ignacio Tiraboschi, you can find me as `@ignatirabo` (almost) everywhere. I'm a Detection Infrastructure engineer at [Eclypsium, Inc](https://eclypsium.com/).
+- 🎓 I have a PhD in Computer Science from ENS, Paris where I worked with Xavier Rival and Tamara Rezk.
 - 👀 I’m interested in the static analysis of programs for security properties.
 - 🌱 I’m currently learning off-topic stuff like 3D Graphics!
-- 🕹️ I love videogames too! My goal is to create games in **Godot**.
-- 📫 You can reach me in my email `{github username}@gmail.com` :)
+- 🕹️ I love videogames too! My goal is to create games in [**Godot**](https://godotengine.org/).
+- 📫 You can reach me at my email `{github username}@gmail.com` :)
