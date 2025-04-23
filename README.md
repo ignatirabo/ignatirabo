@@ -2,5 +2,5 @@
 - 🎓 I have a PhD in Computer Science from ENS, Paris where I worked with Xavier Rival and Tamara Rezk.
 - 👀 I’m interested in the static analysis of programs for security properties.
 - 🌱 I’m currently learning off-topic stuff like 3D Graphics!
-- 🕹️ I love videogames too! My goal is to create games in [**Godot**](https://godotengine.org/).
+- 🕹️ I love videogames too! My goal is to become a solo-dev using [**Godot**](https://godotengine.org/) and other open-source tools.
 - 📫 You can reach me at my email `{github username}@gmail.com` :)
